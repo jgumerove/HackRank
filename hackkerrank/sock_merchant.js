@@ -23,3 +23,4 @@ function sockMerchant(n, ar) {
 //note --> if can do without an array --> should do without an array
 
 console.log(sockMerchant(7, [1, 2, 1, 2, 1, 3, 2]))
+console.log("hi")
